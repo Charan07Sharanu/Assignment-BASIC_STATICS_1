@@ -1,0 +1,2 @@
+# Assignment-BASIC_STATICS_1
+BASIC STATICS 1
